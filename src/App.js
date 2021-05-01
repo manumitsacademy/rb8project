@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello React Application!!!</h1>
+      <h1>Welcome to React 17</h1>
     </div>
   );
 }
